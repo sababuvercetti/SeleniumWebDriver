@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HDWAqcI3YxQR8OPD6TbRwMfjmZC15qxkD6OUJmQcXFYpbP+3x5RRohcec/JsFMeTgymlHgzwsUF4G2Fzf/TTRQ==",
+  "dgSpecHash": "u4cF7RiCR8j2jktDaz5h9LKCML5SRgghScd62daujl2HAPkvWPOcHzdUoln/ofxVyMGlQeoSpAtQmPxXgRCq6w==",
   "success": true,
   "projectFilePath": "/Users/sababuvercetti/Projects/SeleniumWebDriver/SeleniumWebDriver.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sababuvercetti/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/sababuvercetti/.nuget/packages/selenium.webdriver/4.3.0/selenium.webdriver.4.3.0.nupkg.sha512",
+    "/Users/sababuvercetti/.nuget/packages/selenium.webdriver.chromedriver/103.0.5060.13400/selenium.webdriver.chromedriver.103.0.5060.13400.nupkg.sha512"
+  ],
   "logs": []
 }
