@@ -1,0 +1,15 @@
+/Users/sababuvercetti/Projects/SeleniumWebDriver/bin/Debug/net6.0/SeleniumWebDriver
+/Users/sababuvercetti/Projects/SeleniumWebDriver/bin/Debug/net6.0/SeleniumWebDriver.deps.json
+/Users/sababuvercetti/Projects/SeleniumWebDriver/bin/Debug/net6.0/SeleniumWebDriver.runtimeconfig.json
+/Users/sababuvercetti/Projects/SeleniumWebDriver/bin/Debug/net6.0/SeleniumWebDriver.dll
+/Users/sababuvercetti/Projects/SeleniumWebDriver/bin/Debug/net6.0/SeleniumWebDriver.pdb
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/SeleniumWebDriver.csproj.AssemblyReference.cache
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/SeleniumWebDriver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/SeleniumWebDriver.AssemblyInfoInputs.cache
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/SeleniumWebDriver.AssemblyInfo.cs
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/SeleniumWebDriver.csproj.CoreCompileInputs.cache
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/SeleniumWebDriver.dll
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/refint/SeleniumWebDriver.dll
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/SeleniumWebDriver.pdb
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/SeleniumWebDriver.genruntimeconfig.cache
+/Users/sababuvercetti/Projects/SeleniumWebDriver/obj/Debug/net6.0/ref/SeleniumWebDriver.dll
